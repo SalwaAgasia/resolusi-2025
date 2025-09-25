@@ -1,0 +1,3 @@
+Fitur 2:
+-membuat layout dan tampilan Halaman dashboard
+-menampilkan data dashboard dari server ke halaman dashboard
